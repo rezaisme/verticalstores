@@ -1,0 +1,2 @@
+# verticalstores
+vertical store
